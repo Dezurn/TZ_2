@@ -1,0 +1,5 @@
+JMH S 36 org.example.NumberProcessorBenchmark S 73 org.example.jmh_generated.NumberProcessorBenchmark_benchmarkCount_jmhTest S 14 benchmarkCount S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 36 org.example.NumberProcessorBenchmark S 71 org.example.jmh_generated.NumberProcessorBenchmark_benchmarkMax_jmhTest S 12 benchmarkMax S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 36 org.example.NumberProcessorBenchmark S 71 org.example.jmh_generated.NumberProcessorBenchmark_benchmarkMin_jmhTest S 12 benchmarkMin S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 36 org.example.NumberProcessorBenchmark S 72 org.example.jmh_generated.NumberProcessorBenchmark_benchmarkMult_jmhTest S 13 benchmarkMult S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 36 org.example.NumberProcessorBenchmark S 71 org.example.jmh_generated.NumberProcessorBenchmark_benchmarkSum_jmhTest S 12 benchmarkSum S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
